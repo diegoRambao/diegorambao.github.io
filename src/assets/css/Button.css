@@ -1,0 +1,18 @@
+.button {
+  padding: 15px 25px;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 20px;
+  background-color: #2043b5;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.button:hover {
+  background-color: #173598;
+}
+.button__text {
+  color: #fff;
+  font-size: 15px;
+  margin-left: 10px;
+}
