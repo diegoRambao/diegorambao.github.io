@@ -5,8 +5,7 @@ const Contact = () => {
     <section className='contact'>
       <div className='contact__title'>
         <div className='title'>
-          <h2 className='title__text'></h2>
-          <hr className='title__line' />
+          <h2 className='title__text'>Contactame</h2>
         </div>
         <p>Lorem ipsum dolor sit amet</p>
       </div>

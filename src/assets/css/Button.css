@@ -4,7 +4,7 @@
   justify-content: space-between;
   align-items: center;
   border-radius: 20px;
-  background-color: #2043b5;
+  background-color: var(--color-primary);
   text-decoration: none;
   transition: 0.3s;
 }

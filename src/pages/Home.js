@@ -8,7 +8,7 @@ import Contact from '../components/Contact';
 const HomePage = () => {
   return (
     <div className='home-page'>
-      <Header />;
+      <Header />
       <main>
         <About />
         <Portfolio />

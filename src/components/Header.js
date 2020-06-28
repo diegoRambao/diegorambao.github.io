@@ -2,7 +2,6 @@ import React from 'react';
 import Button from './Button';
 
 import '../assets/css/Header.css';
-import cardTravel from '../assets/img/card_travel.svg';
 
 const Header = () => {
   return (
