@@ -1,0 +1,15 @@
+.porfolio {
+  margin-top: 50px;
+  padding: 40px 0;
+  background: #fefefe;
+}
+.title-center {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 70px;
+}
+.porfolio__container-card {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 15px;
+}
