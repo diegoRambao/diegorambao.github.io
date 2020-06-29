@@ -8,21 +8,23 @@ const About = () => {
     <section className='about'>
       <div className='container'>
         <div className='about__container'>
-          <div className='title'>
+          <div className='title about__title title--buttom'>
             <h2 className='title__text'>Acerca de mi</h2>
           </div>
           <div className='about__content'>
             <p className='about__description'>
-              Soy desarrollador de software y deseñador UI/UX colombiano que
-              vive en el departamento del Atlantico.
+              Soy Diego, un amante del café ☕, desarrollador web y desañador
+              UI/UX, 💻 con una sólida formación educativa en tecnología de la
+              información
             </p>
 
             <p className='about__description'>
-              Mi conocimiento gira entorno al desarrollo de aplicaciones web y
-              del lado del servidor, especificamente escritas en Node, Laravel,
-              React y Vuejs.
+              Comencé a crear diseños web usando HTML y CSS en 2016. Soy un
+              entusiasta de JavaScript y laravel, extremadamente apasionado por
+              la codificación. Me encanta aprender cosas nuevas todos los días y
+              estar al día con las nuevas tecnologías 💙.
             </p>
-            <Button name='Descargar CV' link='' icon='cloud_download' />
+            {/* <Button name='Descargar CV' link='' icon='cloud_download' /> */}
           </div>
         </div>
       </div>

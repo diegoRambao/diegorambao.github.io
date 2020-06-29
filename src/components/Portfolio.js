@@ -10,6 +10,9 @@ const Portfolio = () => {
       <div className='container'>
         <div className='title title-center'>
           <h2 className='title__text'>Portafolio</h2>
+          <p className='title__description'>
+            Estos son algunos de mis proyectos recientes
+          </p>
         </div>
 
         <div className='porfolio__container-card'>

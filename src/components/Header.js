@@ -16,7 +16,8 @@ const Header = () => {
         </div>
         <div className='header__container-title'>
           <h1 className='header__title'>
-            Hola <br />
+            Hola
+            <br />
             Soy Diego.
           </h1>
 

@@ -1,5 +1,5 @@
 .button {
-  padding: 15px 25px;
+  padding: 10px 20px;
   display: inline-flex;
   justify-content: space-between;
   align-items: center;
@@ -13,6 +13,6 @@
 }
 .button__text {
   color: #fff;
-  font-size: 15px;
+  font-size: 13px;
   margin-left: 10px;
 }
