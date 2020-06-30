@@ -22,8 +22,8 @@ const Header = () => {
           </h1>
 
           <p className='header__description'>
-            !Bienvenido a mi sitio web! <br /> Soy Desarrollador fullStack y
-            diseñador UI/UX, listo para llevar tus proyectos al siguiente nivel
+            !Bienvenido a mi sitio web! <br /> Soy Desarrollador web y diseñador
+            UI/UX, listo para llevar tus proyectos al siguiente nivel
           </p>
           <Button name='Ver portafolio' link='#portfolio' icon='card_travel' />
         </div>

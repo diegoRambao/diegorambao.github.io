@@ -2,11 +2,12 @@ import React from 'react';
 import Project from './Project';
 
 import '../assets/css/Portfolio.css';
-import dashboard1 from '../assets/img/dashboard.jpg';
+import project1 from '../assets/img/project1.jpeg';
+import project2 from '../assets/img/project2.png';
 
 const Portfolio = () => {
   return (
-    <section className='porfolio'>
+    <section className='porfolio' id='portfolio'>
       <div className='container'>
         <div className='title title-center'>
           <h2 className='title__text'>Portafolio</h2>
@@ -17,19 +18,14 @@ const Portfolio = () => {
 
         <div className='porfolio__container-card'>
           <Project
-            name='Sistema de facturacion'
-            description='El sistema de facturacion gestiona todos los procesos invulucrados en una empresa como la compra y venta de productos'
-            img={dashboard1}
+            name='Cat Dog'
+            description='Cat dog es un proyecto personal el cual permite a las personas poder dar en adocción a mascotas y tambien por medio de la pagina poder adoctar a una mascota.'
+            img={project1}
           />
           <Project
-            name='Sistema de facturacion'
-            description='El sistema de facturacion gestiona todos los procesos invulucrados en una empresa como la compra y venta de productos'
-            img={dashboard1}
-          />
-          <Project
-            name='Sistema de facturacion'
-            description='El sistema de facturacion gestiona todos los procesos invulucrados en una empresa como la compra y venta de productos'
-            img={dashboard1}
+            name='Sistema de facturación'
+            description='Es un sistema que gestiona los procesos de inventario, venta, compra de las mypimes'
+            img={project2}
           />
         </div>
       </div>

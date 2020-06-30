@@ -1,7 +1,6 @@
 import React from 'react';
 import EmailIcon from '@material-ui/icons/Email';
 import WhatsAppIcon from '@material-ui/icons/WhatsApp';
-import TwitterIcon from '@material-ui/icons/Twitter';
 
 import '../assets/css/Contact.css';
 const Contact = () => {

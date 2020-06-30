@@ -22,13 +22,20 @@
 }
 
 @media (max-width: 700px) {
-  .card {
-    /* padding: 0; */
+  .card__container-img {
+    margin-bottom: 10px;
   }
   .card__img {
     width: 100%;
+    box-shadow: 0 0.2rem 0.7rem rgba(0, 0, 0, 0.175) !important;
   }
   .card__title {
     font-size: 20px;
+  }
+}
+
+@media (max-width: 530px) {
+  .card {
+    padding: 0;
   }
 }
