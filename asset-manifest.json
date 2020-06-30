@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/diegorambao.github.io/static/css/main.b0dae494.chunk.css",
+    "main.css": "/diegorambao.github.io/static/css/main.0ea0866e.chunk.css",
     "main.js": "/diegorambao.github.io/static/js/main.d830c420.chunk.js",
     "main.js.map": "/diegorambao.github.io/static/js/main.d830c420.chunk.js.map",
     "runtime-main.js": "/diegorambao.github.io/static/js/runtime-main.984b8178.js",
@@ -9,10 +9,10 @@
     "static/js/2.c07840bb.chunk.js": "/diegorambao.github.io/static/js/2.c07840bb.chunk.js",
     "static/js/2.c07840bb.chunk.js.map": "/diegorambao.github.io/static/js/2.c07840bb.chunk.js.map",
     "index.html": "/diegorambao.github.io/index.html",
-    "precache-manifest.ea88fa9bcbc3648de07f09d6d0da0b9b.js": "/diegorambao.github.io/precache-manifest.ea88fa9bcbc3648de07f09d6d0da0b9b.js",
+    "precache-manifest.72f0ffa992633a6bf95a759a00bd83bd.js": "/diegorambao.github.io/precache-manifest.72f0ffa992633a6bf95a759a00bd83bd.js",
     "service-worker.js": "/diegorambao.github.io/service-worker.js",
     "static/css/2.1f156bdb.chunk.css.map": "/diegorambao.github.io/static/css/2.1f156bdb.chunk.css.map",
-    "static/css/main.b0dae494.chunk.css.map": "/diegorambao.github.io/static/css/main.b0dae494.chunk.css.map",
+    "static/css/main.0ea0866e.chunk.css.map": "/diegorambao.github.io/static/css/main.0ea0866e.chunk.css.map",
     "static/js/2.c07840bb.chunk.js.LICENSE.txt": "/diegorambao.github.io/static/js/2.c07840bb.chunk.js.LICENSE.txt",
     "static/media/Header.css": "/diegorambao.github.io/static/media/fondo.8784cb96.jpg",
     "static/media/project1.jpeg": "/diegorambao.github.io/static/media/project1.d50682a6.jpeg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.984b8178.js",
     "static/css/2.1f156bdb.chunk.css",
     "static/js/2.c07840bb.chunk.js",
-    "static/css/main.b0dae494.chunk.css",
+    "static/css/main.0ea0866e.chunk.css",
     "static/js/main.d830c420.chunk.js"
   ]
 }
